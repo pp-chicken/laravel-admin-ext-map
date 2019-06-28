@@ -10,7 +10,7 @@ class MapServiceProvider extends ServiceProvider
     /**
      * {@inheritdoc}
      */
-    public function boot(StarRatingExtension $extension)
+    public function boot()
     {
         Form::extend('map', Map::class);
     }

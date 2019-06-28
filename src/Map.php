@@ -93,7 +93,7 @@ class Map extends \Encore\Admin\Form\Field\Map
                             
                             infoWindow.setPosition(map_center);
                             initMap();
-                            if (mapSearch !== undefined)
+                            if (typeof(mapSearch) !== 'undefined')
                                 mapSearch();
                         }, function() {
                           handleLocationError(true, infoWindow, map.getCenter());

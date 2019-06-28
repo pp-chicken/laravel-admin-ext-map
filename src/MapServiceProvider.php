@@ -1,6 +1,6 @@
 <?php
 
-namespace j552121229l\laravelAdminExtMap;
+namespace l552121229\laravelAdminExtMap;
 
 use Encore\Admin\Form;
 use Illuminate\Support\ServiceProvider;

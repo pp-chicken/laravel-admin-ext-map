@@ -6,7 +6,7 @@
  * Time: 17:53
  */
 
-namespace 552121229l\laravel-admin-ext-map;
+namespace l552121229\laravelAdminExtMap;
 
 class Map extends \Encore\Admin\Form\Field\Map
 {

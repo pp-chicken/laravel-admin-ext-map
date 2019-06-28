@@ -1,5 +1,5 @@
 {
-    "name": "552121229l/laravel-admin-ext-map",
+    "name": "l552121229/laravel-admin-ext-map",
     "description": "map search extension for laravel-admin.",
     "type": "library",
     "keywords": ["laravel-admin", "extension"],
@@ -17,13 +17,13 @@
     },
     "autoload": {
         "psr-4": {
-            "j552121229l\\laravelAdminExtMap\\": "src/"
+            "l552121229\\laravelAdminExtMap\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "j552121229l\\laravelAdminExtMap\\MapServiceProvider"
+                "l552121229\\laravelAdminExtMap\\MapServiceProvider"
             ]
         }
     }

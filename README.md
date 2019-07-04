@@ -7,7 +7,7 @@ map extension for laravel-admin.
 ```shell
 composer require encore/laravel-admin
 ```
-app/Admin/bootstrap.php
+修改文件 `app/Admin/bootstrap.php`
 ```php
 Form::extend('map', \l552121229\laravelAdminExtMap\Map::class);
 ```

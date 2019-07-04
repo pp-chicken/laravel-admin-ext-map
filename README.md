@@ -5,7 +5,7 @@ map extension for laravel-admin.
 
 ## 安装说明
 ```shell
-composer require encore/laravel-admin
+composer require l552121229/laravel-admin-ext-map
 ```
 修改文件 `app/Admin/bootstrap.php`
 ```php

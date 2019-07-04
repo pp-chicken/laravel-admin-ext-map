@@ -10,7 +10,7 @@
             "email": "552121229l@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "1.0",
     "require": {
         "php": ">=7.0",
         "encore/laravel-admin": "^1.6"
